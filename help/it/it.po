@@ -1,14 +1,18 @@
+# Nicola Tudino <tudo75@hotmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-03-22 18:26-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-07-18 17:33+0000\n"
+"Last-Translator: Nicola Tudino <tudo75@hotmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/font-manager/"
+"font-manager-help-docs/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.2-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -18,172 +22,184 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/font-manager-categories.page:7
 msgid "Automatically generated categories"
-msgstr ""
+msgstr "Categorie generate automaticamente"
 
 #. (itstool) path: page/title
 #: C/font-manager-categories.page:10
 msgid "Categories"
-msgstr ""
+msgstr "Categorie"
 
 #. (itstool) path: page/p
 #: C/font-manager-categories.page:12
 msgid "<app>Font Manager</app> automatically categorizes your fonts based on various properties."
 msgstr ""
+"<app>Font Manager</app> organizza automaticamente per categorie i tuoi font "
+"in base a varie proprietà."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:19
 msgid "All"
-msgstr ""
+msgstr "Tutti"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:20
 msgid "All available fonts."
-msgstr ""
+msgstr "Tutti i font disponibili."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:25
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:26
 msgid "Fonts available to all users."
-msgstr ""
+msgstr "Font disponibili a tutti gli utenti."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:31
 msgid "User"
-msgstr ""
+msgstr "Utente"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:32
 msgid "Fonts available only to you."
-msgstr ""
+msgstr "Font disponibili solo per te."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:37
 msgid "Family Kind"
-msgstr ""
+msgstr "Tipologia di famiglia"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:38
 msgid "Sorted by Family Kind — Requires Panose information to be present in font metadata."
 msgstr ""
+"Ordinati per Tipo di famiglia - Richiede che siano presenti nei metadata del "
+"font le informazioni Panose."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:43
 msgid "Width"
-msgstr ""
+msgstr "Larghezza"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:44
 msgid "Sorted by font width property."
-msgstr ""
+msgstr "Ordinati per larghezza del font."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:49
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:50
 msgid "Sorted by font weight property."
-msgstr ""
+msgstr "Ordinati per peso del font."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:55
 msgid "Slant"
-msgstr ""
+msgstr "Inclinazione"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:56
 msgid "Sorted by font slant property."
-msgstr ""
+msgstr "Ordinati per inclinazione del font."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:61
 msgid "Spacing"
-msgstr ""
+msgstr "Spaziatura"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:62
 msgid "Sorted by font spacing property."
-msgstr ""
+msgstr "Ordinati per spaziatura del font."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:67
 msgid "License"
-msgstr ""
+msgstr "Licenza"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:68
 msgid "Sorted by font license — Requires license information to be present in font metadata."
 msgstr ""
+"Ordinati per licenza del font - Richiede che siano presenti nei metadata del "
+"font le informazioni sulla licenza."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:73
 msgid "Vendor"
-msgstr ""
+msgstr "Venditore"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:74
 msgid "Sorted by font vendor — Requires vendor information to be present in font metadata."
 msgstr ""
+"Ordinati per venditore del font - Richiede che siano presenti nei metadata "
+"del font le informazioni sul venditore."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:79
 msgid "Filetype"
-msgstr ""
+msgstr "Formato del file"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:80
 msgid "Sorted by file format."
-msgstr ""
+msgstr "Ordinati per formato del file del font."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:85
 msgid "Unsorted"
-msgstr ""
+msgstr "Non ordinati"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:86
 msgid "Fonts not present in any of your collections."
-msgstr ""
+msgstr "Font non presenti in nessuna delle tue collezioni."
 
 #. (itstool) path: item/title
 #: C/font-manager-categories.page:91
 msgid "Disabled"
-msgstr ""
+msgstr "Disabilitati"
 
 #. (itstool) path: item/p
 #: C/font-manager-categories.page:92
 msgid "Currrently disabled font families."
-msgstr ""
+msgstr "Famiglie di font attualmente disabilitate."
 
 #. (itstool) path: info/desc
 #: C/font-manager-character-map.page:8
 msgid "View individual characters and their details"
-msgstr ""
+msgstr "Visualizza singoli caratteri ed i loro dettagli"
 
 #. (itstool) path: page/title
 #: C/font-manager-character-map.page:11
 msgid "Character Map"
-msgstr ""
+msgstr "Mappa dei caratteri"
 
 #. (itstool) path: page/p
 #: C/font-manager-character-map.page:13
 msgid "While in \"Manage\" mode the preview pane contains a tab labeled \"Characters\"."
 msgstr ""
+"Quando si è in modalità \"Gestione\" il pannello di anteprima contiene una "
+"linguetta (tab) etichettata \"Caratteri\"."
 
 #. (itstool) path: page/p
 #: C/font-manager-character-map.page:17
 msgid "Selecting this tab allows viewing all glyphs contained in the currently selected font."
 msgstr ""
+"Selezionando questa linguetta ci permette di vedere tutti i glifi presenti "
+"nel font attualmente selezionato."
 
 #. (itstool) path: figure/title
 #: C/font-manager-character-map.page:23
 msgid "<app>Character Map tab</app>"
-msgstr ""
+msgstr "<app>Linguetta Mappa caratteri</app>"
 
 #. (itstool) path: figure/media
 #. This is a reference to an external file such as an image or video. When
@@ -198,42 +214,45 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/font-manager-character-map.page:28
 msgid "Drag characters onto other applications to use them."
-msgstr ""
+msgstr "Trascina i caratteri in altre applicazioni per usarli."
 
 #. (itstool) path: info/desc
 #: C/font-manager-collections.page:7
 msgid "Organizing Your Fonts"
-msgstr ""
+msgstr "Sto organizzando i tuoi font"
 
 #. (itstool) path: page/title
 #: C/font-manager-collections.page:10
 msgid "Collections"
-msgstr ""
+msgstr "Collezioni"
 
 #. (itstool) path: page/p
 #: C/font-manager-collections.page:12
 msgid "<app>Font Manager</app> allows you to define your own collections."
-msgstr ""
+msgstr "<app>Font Manager</app> permette di definire le proprie collezioni."
 
 #. (itstool) path: page/p
 #: C/font-manager-collections.page:17
 msgid "Collections allow you to organize your fonts in a way that makes sense to you and also make it easier to enable or disable many families at once."
 msgstr ""
+"Le collezioni ti permettono di organizzare i tuoi font in un modo che abbia "
+"senso per te e che ti renda semplice abilitare o disabilitare molte famiglie "
+"contemporaneamente."
 
 #. (itstool) path: note/p
 #: C/font-manager-collections.page:24
 msgid "Collections do not modify your files in any way."
-msgstr ""
+msgstr "Le collezioni non modificano i tuoi file in nessun modo."
 
 #. (itstool) path: note/p
 #: C/font-manager-collections.page:27
 msgid "Feel free to create or delete as many as you like."
-msgstr ""
+msgstr "Sentiti libero di crearne o eliminarne a tuo piacimento."
 
 #. (itstool) path: item/title
 #: C/font-manager-collections.page:34
 msgid "To create a new collection:"
-msgstr ""
+msgstr "Per creare una nuova collezione:"
 
 #. (itstool) path: gui/media
 #. This is a reference to an external file such as an image or video. When
@@ -253,21 +272,23 @@ msgstr ""
 #: C/font-manager-collections.page:37
 msgid "Click <gui> <media type=\"image\" src=\"media/list-add-symbolic.svg\"/> </gui> at the bottom of the Collection view."
 msgstr ""
+"Clicca <gui> <media type=\"image\" src=\"media/list-add-symbolic.svg\"/> </"
+"gui> nella parte bassa del pannello di visualizzazione delle collezioni."
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:46
 msgid "Enter a name for your new collection"
-msgstr ""
+msgstr "Inserisci un nome per la tua nuova collezione"
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:51
 msgid "Add fonts by dragging them from the font list to your new collection."
-msgstr ""
+msgstr "Aggiungi font trascinandoli dall'elenco nella tua nuova collezione."
 
 #. (itstool) path: item/title
 #: C/font-manager-collections.page:59
 msgid "To delete a collection:"
-msgstr ""
+msgstr "Per eliminare una collezione:"
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:62
@@ -275,7 +296,7 @@ msgstr ""
 #: C/font-manager-collections.page:99
 #: C/font-manager-collections.page:117
 msgid "Select the collection"
-msgstr ""
+msgstr "Seleziona la collezione"
 
 #. (itstool) path: gui/media
 #. This is a reference to an external file such as an image or video. When
@@ -295,43 +316,47 @@ msgstr ""
 #: C/font-manager-collections.page:67
 msgid "Click <gui> <media type=\"image\" src=\"media/list-remove-symbolic.svg\"/> </gui> at the bottom of the Collection view."
 msgstr ""
+"Clicca <gui> <media type=\"image\" src=\"media/list-remove-symbolic.svg\"/> "
+"</gui> nella parte bassa del pannello di visualizzazione delle collezioni."
 
 #. (itstool) path: item/title
 #: C/font-manager-collections.page:78
 msgid "To enable a collection:"
-msgstr ""
+msgstr "Per abilitare una collezione:"
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:86
 #: C/font-manager-collections.page:104
 #: C/font-manager-font-activation.page:35
 msgid "Click the <gui style=\"checkbox\"> checkbox </gui>"
-msgstr ""
+msgstr "Clicca la <gui style=\"checkbox\"> casella di spunta </gui>"
 
 #. (itstool) path: item/title
 #: C/font-manager-collections.page:96
 msgid "To disable a collection:"
-msgstr ""
+msgstr "Per disabilitare una collezione:"
 
 #. (itstool) path: item/title
 #: C/font-manager-collections.page:114
 msgid "To remove families from a collection:"
-msgstr ""
+msgstr "Per rimuovere famiglie da una collezione:"
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:122
 msgid "Select the family or families you wish to remove"
-msgstr ""
+msgstr "Seleziona la famiglia o le famiglie che vuoi rimuovere"
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:127
 msgid "Click the <gui> <media type=\"image\" src=\"media/list-remove-symbolic.svg\"/> </gui> at the top of the font list."
 msgstr ""
+"Clicca <gui> <media type=\"image\" src=\"media/list-remove-symbolic.svg\"/> "
+"</gui> in alto sopra l'elenco dei font."
 
 #. (itstool) path: item/title
 #: C/font-manager-collections.page:138
 msgid "To rename a collection:"
-msgstr ""
+msgstr "Per rinominare una collezione:"
 
 #. (itstool) path: item/p
 #: C/font-manager-collections.page:141
